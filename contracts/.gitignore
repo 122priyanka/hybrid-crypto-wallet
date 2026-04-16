@@ -1,0 +1,11 @@
+# Hardhat files
+artifacts/
+cache/
+coverage/
+coverage.json
+
+# Environment variables
+.env
+
+# Dependencies
+node_modules/
